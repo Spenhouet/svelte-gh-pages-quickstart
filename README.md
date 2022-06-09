@@ -1,4 +1,10 @@
-# Svelte GitHub Pages Quickstart
+<p align="center">
+  <a href="https://github.com/Spenhouet/svelte-gh-pages-quickstart/actions/workflows/deploy.yml"><img src="https://github.com/Spenhouet/svelte-gh-pages-quickstart/actions/workflows/deploy.yml/badge.svg" alt="Build Status"></a><a href="https://github.com/Spenhouet/svelte-gh-pages-quickstart/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/Spenhouet/svelte-gh-pages-quickstart/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Deploy Status"></a>
+</p>
+
+<p align="center">Template for Svelte with GitHub pages.</p>
+
+<p align="center"><em>Check the result of this basic version out at <a href="https://spenhouet.com/svelte-gh-pages-quickstart/">spenhouet.com/svelte-gh-pages-quickstart</a>.</em></p>
 
 Quickstart project to develop and deploy a static Svelte page to GitHub pages.
 
